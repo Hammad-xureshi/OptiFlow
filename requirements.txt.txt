@@ -1,0 +1,9 @@
+flask
+mysql-connector-python
+pandas
+numpy
+scikit-learn
+bcrypt
+flask-limiter
+reportlab
+pypandoc
