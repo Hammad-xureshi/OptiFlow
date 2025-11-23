@@ -1,7 +1,3 @@
-Here is a professional, comprehensive, and clean GitHub README based on your project summary.
-
-***
-
 # 🛡️ CyberWall: AI-Powered Security Monitoring System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
